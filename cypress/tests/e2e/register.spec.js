@@ -1,6 +1,6 @@
-import UserRegisterPage from '../pages/userRegisterPage.js'
-import LoginPage from '../pages/loginPage.js'
-import CreateBankPage from '../pages/createBankPage.js'
+import UserRegisterPage from '../../pages/userRegisterPage.js'
+import LoginPage from '../../pages/loginPage.js'
+import CreateBankPage from '../../pages/createBankPage.js'
 
 const userRegisterPage = new UserRegisterPage()
 const loginPage = new LoginPage()

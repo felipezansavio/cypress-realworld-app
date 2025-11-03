@@ -1,5 +1,5 @@
-import LoginPage from '../pages/loginPage.js'
-import TransactionPage from '../pages/transactionPage.js'
+import LoginPage from '../../pages/loginPage.js'
+import TransactionPage from '../../pages/transactionPage.js'
 
 const loginPage = new LoginPage()
 const transactionPage = new TransactionPage()

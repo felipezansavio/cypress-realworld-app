@@ -1,4 +1,4 @@
-import LoginPage from '../pages/loginPage.js'
+import LoginPage from '../../pages/loginPage.js'
 
 const loginPage = new LoginPage()
 describe('Login Real World App Test', () => {
